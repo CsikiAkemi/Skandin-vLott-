@@ -1,0 +1,14 @@
+C:\Users\Akemi\source\repos\SkandinavLottoV2\LottoAdatKapcsolat\bin\Debug\net6.0\LottoAdatKapcsolat.deps.json
+C:\Users\Akemi\source\repos\SkandinavLottoV2\LottoAdatKapcsolat\bin\Debug\net6.0\LottoAdatKapcsolat.runtimeconfig.json
+C:\Users\Akemi\source\repos\SkandinavLottoV2\LottoAdatKapcsolat\bin\Debug\net6.0\LottoAdatKapcsolat.dll
+C:\Users\Akemi\source\repos\SkandinavLottoV2\LottoAdatKapcsolat\bin\Debug\net6.0\LottoAdatKapcsolat.pdb
+C:\Users\Akemi\source\repos\SkandinavLottoV2\LottoAdatKapcsolat\obj\Debug\net6.0\LottoAdatKapcsolat.csproj.AssemblyReference.cache
+C:\Users\Akemi\source\repos\SkandinavLottoV2\LottoAdatKapcsolat\obj\Debug\net6.0\LottoAdatKapcsolat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akemi\source\repos\SkandinavLottoV2\LottoAdatKapcsolat\obj\Debug\net6.0\LottoAdatKapcsolat.AssemblyInfoInputs.cache
+C:\Users\Akemi\source\repos\SkandinavLottoV2\LottoAdatKapcsolat\obj\Debug\net6.0\LottoAdatKapcsolat.AssemblyInfo.cs
+C:\Users\Akemi\source\repos\SkandinavLottoV2\LottoAdatKapcsolat\obj\Debug\net6.0\LottoAdatKapcsolat.csproj.CoreCompileInputs.cache
+C:\Users\Akemi\source\repos\SkandinavLottoV2\LottoAdatKapcsolat\obj\Debug\net6.0\LottoAdatKapcsolat.dll
+C:\Users\Akemi\source\repos\SkandinavLottoV2\LottoAdatKapcsolat\obj\Debug\net6.0\refint\LottoAdatKapcsolat.dll
+C:\Users\Akemi\source\repos\SkandinavLottoV2\LottoAdatKapcsolat\obj\Debug\net6.0\LottoAdatKapcsolat.pdb
+C:\Users\Akemi\source\repos\SkandinavLottoV2\LottoAdatKapcsolat\obj\Debug\net6.0\LottoAdatKapcsolat.genruntimeconfig.cache
+C:\Users\Akemi\source\repos\SkandinavLottoV2\LottoAdatKapcsolat\obj\Debug\net6.0\ref\LottoAdatKapcsolat.dll
